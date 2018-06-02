@@ -1,0 +1,20 @@
+{
+  "name": "capability-config-fs",
+  "version": "0.1.0",
+  "description": "Capability Services configuration on a file system",
+  "main": "index.js",
+  "contributors": [
+    "Tristan Slominski <tristan.slominski@gmail.com>"
+  ],
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:capabilityio/capability-config-fs.git"
+  },
+  "keywors": [
+    "capability",
+    "capabilityio",
+    "configuration",
+    "config"
+  ]
+}
